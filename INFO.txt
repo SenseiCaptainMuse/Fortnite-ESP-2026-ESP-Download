@@ -1,0 +1,6 @@
+Fortnite-ESP-2026-ESP-Download
+Edition: Performance Build
+Package reference: Fortnite-ESP-2026
+Language: English
+Platform: Windows 10 / Windows 11 x64
+Read README.md before opening the downloaded package.
